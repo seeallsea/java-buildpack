@@ -17,6 +17,3 @@
 ---
 version: 3.+
 repository_root: https://download.run.pivotal.io/new-relic
-
-license_key: 'c5281e37472a06dee8fad85d3d4e82729f7e6c50'
-app_name: Java buildpack Test Application
